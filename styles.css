@@ -1,2 +1,4 @@
-
-/* Your CSS Code here. */
+.nav>ul>a{
+	justify-content:center;
+	text-decoration:none;
+}
