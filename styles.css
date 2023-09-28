@@ -1,6 +1,10 @@
 .nav>ul>a{
 	justify-content:center;
 	text-decoration:none;
+	 
+}
+.nav>ul{
+	list-style-type: none;
 }
 div>video{
 	height:100px;
